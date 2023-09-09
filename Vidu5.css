@@ -1,0 +1,35 @@
+.toolbar {
+  display: flex;
+  justify-content: space-evenly;
+
+}
+
+.tool {
+  width: 250px;
+  height: 40px;
+  background-color: #ccc;
+  margin-right: 10px;
+  text-align: center;
+  line-height: 40px;
+  cursor: pointer;
+
+}
+
+.tool a{
+    text-decoration: none;
+    color: inherit;
+    
+}
+
+.tool b{
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif
+    
+}
+
+.tool:hover {
+  background-color: rgb(52, 133, 191);
+  color: #ffffff;
+}
+
+
