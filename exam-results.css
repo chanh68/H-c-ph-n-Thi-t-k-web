@@ -1,0 +1,22 @@
+table, th, td {
+    border: 1px solid #000000;
+}
+
+table {
+    width: 30%;
+}
+
+.bold td {
+    font-weight: bold;
+    text-align: center;
+}
+
+.result{
+    width: 400px;
+    text-align: right;
+    padding-right: 5px;
+}
+
+td {
+    padding-left: 5px;
+}
